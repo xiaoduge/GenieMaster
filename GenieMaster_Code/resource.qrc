@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>pic/EDIValve.png</file>
+        <file>pic/Flow.png</file>
+        <file>pic/Pack.png</file>
+        <file>pic/Pre.png</file>
+        <file>pic/Pretreatment.png</file>
+        <file>pic/Pump.png</file>
+        <file>pic/ROValve.png</file>
+        <file>pic/Sense.png</file>
+        <file>pic/Tank.png</file>
+        <file>pic/UVOFF.png</file>
+        <file>pic/UVOFF2.png</file>
+        <file>pic/UVON.png</file>
+        <file>pic/UVON2.png</file>
+        <file>pic/Valve.png</file>
+        <file>pic/EdiPack.png</file>
+        <file>pic/RoPack.png</file>
+        <file>pic/run.png</file>
+        <file>pic/standby.png</file>
+        <file>pic/closeConnect.png</file>
+        <file>pic/test.png</file>
+        <file>pic/config.png</file>
+        <file>pic/runPara.png</file>
+        <file>pic/alarm.png</file>
+        <file>pic/histroy.png</file>
+        <file>pic/consumables.png</file>
+        <file>pic/about.png</file>
+        <file>pic/alar.png</file>
+        <file>pic/com.png</file>
+        <file>pic/cons.png</file>
+        <file>pic/help.png</file>
+        <file>pic/his.png</file>
+        <file>pic/main.png</file>
+        <file>pic/par.png</file>
+        <file>pic/helpblue.png</file>
+    </qresource>
+</RCC>
